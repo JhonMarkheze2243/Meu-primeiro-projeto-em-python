@@ -1,6 +1,6 @@
 # Meu primeiro projeto em python.3.0 :)
 # Discord: Jhon Markheze#5879
-# Instagram: 
+# Instagram: https://www.instagram.com/jhon.markheze/
 import time
 
 while True:
